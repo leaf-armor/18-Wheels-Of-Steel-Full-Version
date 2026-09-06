@@ -242,3 +242,6 @@ This repository serves as the official landing page for **18 Wheels of Steel**. 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of 18 Wheels of Steel today!**
+
+---
+**Last updated:** 2026-09-06 17:59:35 UTC
